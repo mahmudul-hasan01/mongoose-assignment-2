@@ -1,0 +1,3 @@
+# https://assignment-2-nine-eosin.vercel.app/
+
+# this is a bike store project. TypeScript Express and Mongoose are used here. First, data was created through a post with the bike information. Then the data of all the bikes was geted and the data of the specific bike was geted. Then it was updated with the bike's price and quantity and the data that was not needed was deleted. More order functionality added. Here you can see the customer email product ID quantity and total price according to the quantity. And the latest aggregation has been geted and the total revenue has been shown on the total order.

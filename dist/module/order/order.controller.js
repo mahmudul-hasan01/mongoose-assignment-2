@@ -61,6 +61,7 @@ const createOrder = (req, res) => __awaiter(void 0, void 0, void 0, function* ()
         });
     }
 });
+// Aggregate
 const getRevenue = (req, res) => __awaiter(void 0, void 0, void 0, function* () {
     try {
         const result = yield order_model_1.default.aggregate([
